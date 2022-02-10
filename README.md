@@ -28,8 +28,6 @@ MAXOPENINGS        SCREENWIDTH*256 * 16
 
 MAXDRAWSEGS        2048 * 16
 
-MAXVISSPRITES    1024 * 16
-
 MAXSEGS (SCREENWIDTH / 2 + 1) * SCREENHEIGHT
 
 # Save size is different depending on version
