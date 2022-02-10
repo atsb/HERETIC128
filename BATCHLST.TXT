@@ -1,0 +1,8 @@
+[1] Heretic 3-level Shareware beta (Watcom 9.5a + TASM 3.1)
+[2] Heretic Shareware v1.0 (Watcom 9.5a + TASM 3.1)
+[3] Heretic Registered v1.0 (Watcom 9.5a + TASM 3.1)
+[4] Heretic v1.2 (Watcom 10.0 + TASM 3.1)
+[5] Heretic v1.3 (Watcom 10.0 + TASM 3.1)
+
+[0] Cancel and quit
+
