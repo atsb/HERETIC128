@@ -42,9 +42,13 @@ The most important part!  HERETIC128 would not be possible without the folks bel
 
 These two with their gamesrc recreation:
 NY00123
+
 nukeykt
+
 https://bitbucket.org/gamesrc-ver-recreation/
 
-Special Mentions
+Special Mentions:
+
 PVS
+
 ETTiNGRiNDER
