@@ -35,3 +35,16 @@ MAXSEGS (SCREENWIDTH / 2 + 1) * SCREENHEIGHT
 SAVEGAMESIZE 0x20000 * 16
 
 SAVEGAMESIZE 0x30000 * 16
+
+# Credits
+
+The most important part!  HERETIC128 would not be possible without the folks below.
+
+These two with their gamesrc recreation:
+NY00123
+nukeykt
+https://bitbucket.org/gamesrc-ver-recreation/
+
+Special Mentions
+PVS
+ETTiNGRiNDER
