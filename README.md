@@ -53,3 +53,13 @@ Special Mentions:
 PVS
 
 ETTiNGRiNDER
+
+AXDOOMER
+
+# Additional Code
+
+Borrowed code from some awesome people:
+
+Fabian (Crispy Doom)
+
+Julian (Russian Doom)
