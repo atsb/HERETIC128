@@ -606,13 +606,7 @@ void G_BuildTiccmd (ticcmd_t *cmd)
 	else
 	{
 		cmd->angleturn -= mousex*0x8;
-#if (APPVER_HERETICREV < AV_HR_TIC10S)
-		forward += mousey;
-#endif
 	}	
-#if (APPVER_HERETICREV >= AV_HR_TIC10S)
-	forward += mousey;
-#endif
 	mousex = mousey = 0;
 	
 	if (forward > MAXPLMOVE)
